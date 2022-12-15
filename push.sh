@@ -2,6 +2,7 @@
 
 #
 # Copyright (C) 2022 Mahmoud Mohamed (00xWolf)  <https://github.com/mmsaeed509>
+# Copyright (C) 2022 Exodia ATSi Edition Anjas Amar Pradana <https://github.com/anjasamar>
 # LICENSE © GNU-GPL3
 #
 
