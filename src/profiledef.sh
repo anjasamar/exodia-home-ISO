@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="exodia-home"
-iso_label="Exodia-Home$(date +%Y%m)"
-iso_publisher="Mahmoud Mohamed (00xWolf) <https://github.com/mmsaeed509>"
+iso_name="exodia-home-atsi-edition"
+iso_label="Exodia-Home-ATSiEdition$(date +%Y%m)"
+iso_publisher="Anjas Amar Pradana <https://github.com/anjasamar>"
 iso_application="Exodia Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
